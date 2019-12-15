@@ -78,11 +78,13 @@ Platform:Windows / 支持平台:电脑
 
 ### Android_KuroMoriMine
 
+西住 まほ Voice Pack / 西住真穗语音包
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_KuroMoriMine.modpack?raw=true)
 
 ### Android_Map-Demo-Scene
 
+A demo test map.一张简单的测试地图。
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Map-Demo-Scene.modpack?raw=true)
 
@@ -98,6 +100,7 @@ Platform:Android / 支持平台:安卓
 
 ### Android_NationalVoicePack
 
+真实国家语音语音包。车长根据载具国家不同，语音不同。
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_NationalVoicePack.modpack?raw=true)
 
@@ -168,6 +171,7 @@ Platform:Android / 支持平台:安卓
 
 ### Android_Vehicle-Legacy-Pack
 
+A tank pack includes bat_chatillon25t,conqueror,e-25,e-75 and so on. / 一个包括数十辆坦克的载具包。
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-Legacy-Pack.modpack?raw=true)
 
