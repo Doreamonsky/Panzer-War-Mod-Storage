@@ -330,6 +330,7 @@ Platform:Android / 支持平台:安卓
 
 Size/大小:3.96MB
 ![pic](Doreamonsky/Android_Vehicle-T28.jpg)
+
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-T28.modpack?raw=true)
 
