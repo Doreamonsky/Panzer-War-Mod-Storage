@@ -392,13 +392,6 @@ Size/大小:6.62MB
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_ダージリン.modpack?raw=true)
 
-### StandaloneWindows64_Vehicle-M41D
-
-
-Size/大小:5.49MB
-Platform:Windows / 支持平台:电脑
-[Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/StandaloneWindows64_Vehicle-M41D.modpack?raw=true)
-
 ## Renamed-User
 
 ### Android_Vehicle_SdKfz184_modpack
