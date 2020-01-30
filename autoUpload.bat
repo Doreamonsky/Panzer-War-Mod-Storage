@@ -1,1 +1,1 @@
-git add . && git commit -m "Upload by tool" && git push
+git add . && git commit -m "Upload by tool" && git push && git push coding
