@@ -378,6 +378,13 @@ Size/大小:2.40MB
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-Type_2605.modpack?raw=true)
 
+### Android_Vehicle-VK3601H
+
+
+Size/大小:3.89MB
+Platform:Android / 支持平台:安卓
+[Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-VK3601H.modpack?raw=true)
+
 ### Android_Vehicle-WZ-111-1-FT
 
 
