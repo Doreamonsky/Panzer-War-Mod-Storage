@@ -299,6 +299,15 @@ Size/大小:4.22MB
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-Skorpion.modpack?raw=true)
 
+### Android_Vehicle-ST-II
+
+
+Size/大小:4.18MB
+![pic](Doreamonsky/Android_Vehicle-ST-II.jpg)
+
+Platform:Android / 支持平台:安卓
+[Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-ST-II.modpack?raw=true)
+
 ### Android_Vehicle-SU-130PM
 
 
