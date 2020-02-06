@@ -285,6 +285,15 @@ Size/大小:4.50MB
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-RhB_Waffentrager.modpack?raw=true)
 
+### Android_Vehicle-Ru251
+
+
+Size/大小:2.89MB
+![pic](Doreamonsky/Android_Vehicle-Ru251.jpg)
+
+Platform:Android / 支持平台:安卓
+[Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-Ru251.modpack?raw=true)
+
 ### Android_Vehicle-Sherman_Jumbo
 
 
