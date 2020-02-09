@@ -262,6 +262,13 @@ Size/大小:2.79MB
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-Manticore.modpack?raw=true)
 
+### Android_Vehicle-Obj907
+
+
+Size/大小:3.54MB
+Platform:Android / 支持平台:安卓
+[Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-Obj907.modpack?raw=true)
+
 ### Android_Vehicle-Progetto-65
 
 
