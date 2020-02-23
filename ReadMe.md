@@ -463,3 +463,19 @@ Size/大小:13.90MB
 Platform:Windows / 支持平台:电脑
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Renamed-User/StandaloneWindows64_Vehicle_StrvM42-1_modpack.modpack?raw=true)
 
+## Wtf-Wer
+
+### Android_Vehide-object_777
+
+
+Size/大小:5.10MB
+Platform:Android / 支持平台:安卓
+[Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehide-object_777.modpack?raw=true)
+
+### Android_Vehide_obj_140
+
+
+Size/大小:3.18MB
+Platform:Android / 支持平台:安卓
+[Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehide_obj_140.modpack?raw=true)
+
