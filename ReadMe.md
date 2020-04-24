@@ -398,6 +398,13 @@ Size/大小:3.11MB
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-T92.modpack?raw=true)
 
+### Android_Vehicle-Tiger-131
+
+
+Size/大小:3.52MB
+Platform:Android / 支持平台:安卓
+[Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-Tiger-131.modpack?raw=true)
+
 ### Android_Vehicle-Type62_C
 
 
@@ -517,7 +524,7 @@ Platform:Windows / 支持平台:电脑
 ### StandaloneWindows64_Vehicle-T49
 
 
-Size/大小:0.00MB
+Size/大小:5.47MB
 Platform:Windows / 支持平台:电脑
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Roman-Sazonov/StandaloneWindows64_Vehicle-T49.modpack?raw=true)
 
