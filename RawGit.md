@@ -331,6 +331,13 @@ Size/大小:3.14MB
 Platform:Android / 支持平台:安卓
 [Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-ST-II.modpack?raw=true)
 
+### Android_Vehicle-St-Pz-II
+
+
+Size/大小:2.90MB
+Platform:Android / 支持平台:安卓
+[Click To Download/点击下载](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Doreamonsky/Android_Vehicle-St-Pz-II.modpack?raw=true)
+
 ### Android_Vehicle-SU-130PM
 
 
