@@ -714,6 +714,13 @@ Size:3.62MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-AMX30.modpack?raw=true)
 
+### Android_Vehicle-ARL-44
+
+
+Size:3.11MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-ARL-44.modpack?raw=true)
+
 ### Android_Vehicle-B1-Centauro-120
 
 
