@@ -236,6 +236,20 @@ Size:5.03MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-T49_modpack_modpack.modpack?raw=true)
 
+### Android_Vehicle-T84_modpack
+
+
+Size:2.97MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-T84_modpack.modpack?raw=true)
+
+### Android_Vehicle-WZ-111-5A_modpack
+
+
+Size:5.74MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-WZ-111-5A_modpack.modpack?raw=true)
+
 ### Android_Vehicle_amx50b_modpack
 
 
@@ -515,6 +529,13 @@ Platform:Windows
 Size:5.47MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-T49_modpack_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T84_modpack
+
+
+Size:3.02MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-T84_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle_amx50b_modpack
 
