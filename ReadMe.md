@@ -1095,6 +1095,13 @@ Size:6.62MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_ダージリン.modpack?raw=true)
 
+### StandaloneWindows64_Vehicle-ISU-122S
+
+
+Size:3.66MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/StandaloneWindows64_Vehicle-ISU-122S.modpack?raw=true)
+
 ## Renamed-User
 
 ### Android_Vehicle_SdKfz184_modpack
