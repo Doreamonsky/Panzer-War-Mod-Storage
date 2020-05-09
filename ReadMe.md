@@ -201,6 +201,13 @@ Size:11.41MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-Ghost_modpack_modpack.modpack?raw=true)
 
+### Android_Vehicle-IS-5_modpack
+
+
+Size:4.46MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-IS-5_modpack.modpack?raw=true)
+
 ### Android_Vehicle-Kaiman
 
 
@@ -340,6 +347,20 @@ Platform:Android
 Size:2.42MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_Ho_Ri_Type3_modpack.modpack?raw=true)
+
+### Android_Vehicle_Is2e_modpack
+
+
+Size:10.20MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_Is2e_modpack.modpack?raw=true)
+
+### Android_Vehicle_Is6_modpack
+
+
+Size:5.34MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_Is6_modpack.modpack?raw=true)
 
 ### Android_Vehicle_kv_122_modpack
 
@@ -523,6 +544,13 @@ Size:16.39MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-Ghost_modpack_modpack.modpack?raw=true)
 
+### StandaloneWindows64_Vehicle-IS-5_modpack
+
+
+Size:4.96MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-IS-5_modpack.modpack?raw=true)
+
 ### StandaloneWindows64_Vehicle-Kaiman
 
 
@@ -655,6 +683,20 @@ Platform:Windows
 Size:2.44MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle_Ho_Ri_Type3_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_Is2e_modpack
+
+
+Size:11.28MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle_Is2e_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_Is6_modpack
+
+
+Size:6.15MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle_Is6_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle_kv_122_modpack
 
