@@ -780,7 +780,7 @@ Platform:Android
 ### Android_Vehicle-Centurion_Action_X
 
 
-Size:3.81MB
+Size:3.92MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Centurion_Action_X.modpack?raw=true)
 
@@ -850,7 +850,7 @@ Platform:Android
 ### Android_Vehicle-Legacy-Pack
 
 
-Size:39.41MB
+Size:72.76MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Legacy-Pack.modpack?raw=true)
 
@@ -975,14 +975,14 @@ Platform:Android
 ### Android_Vehicle-T-10
 
 
-Size:3.57MB
+Size:3.67MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-T-10.modpack?raw=true)
 
 ### Android_Vehicle-T-34-2
 
 
-Size:7.33MB
+Size:7.41MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-T-34-2.modpack?raw=true)
 
@@ -1042,7 +1042,7 @@ Platform:Android
 ### Android_Vehicle-Type62_C
 
 
-Size:3.77MB
+Size:3.85MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Type62_C.modpack?raw=true)
 
