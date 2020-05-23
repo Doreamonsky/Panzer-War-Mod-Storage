@@ -103,6 +103,13 @@ Platform:Windows
 
 ## Community
 
+### Android_Map-abandoned-canyons_modpack
+
+
+Size:96.49MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Map-abandoned-canyons_modpack.modpack?raw=true)
+
 ### Android_Map-aztec_modpack
 
 
@@ -403,6 +410,13 @@ Platform:Android
 Size:6.80MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_Type5_Na_To_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Map-abandoned-canyons_modpack
+
+
+Size:70.53MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Map-abandoned-canyons_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Map-aztec_modpack
 
