@@ -1234,6 +1234,13 @@ Size:3.00MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Vk_100_01_p.modpack?raw=true)
 
+### Android_Vehicle_Vk_168_01_p
+
+
+Size:4.57MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Vk_168_01_p.modpack?raw=true)
+
 ### Android_Vehide-object_777
 
 
@@ -1261,4 +1268,11 @@ Platform:Windows
 Size:3.24MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/StandaloneWindows64_Vehicle_Vk_100_01_p.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle_Vk_168_01_p
+
+
+Size:5.11MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/StandaloneWindows64_Vehicle_Vk_168_01_p.modpack?raw=true)
 
