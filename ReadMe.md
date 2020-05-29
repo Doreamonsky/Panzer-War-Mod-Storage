@@ -854,6 +854,13 @@ Size:3.03MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-ISU-122S.modpack?raw=true)
 
+### Android_Vehicle-ISU-152K
+
+
+Size:3.59MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-ISU-152K.modpack?raw=true)
+
 ### Android_Vehicle-JPanther-II
 
 
