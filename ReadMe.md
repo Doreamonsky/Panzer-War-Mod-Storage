@@ -819,6 +819,13 @@ Size:5.52MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-GP-Hetzer-105.modpack?raw=true)
 
+### Android_Vehicle-GP-IS-2
+
+
+Size:4.40MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-GP-IS-2.modpack?raw=true)
+
 ### Android_Vehicle-GP-PzIV-H
 
 
