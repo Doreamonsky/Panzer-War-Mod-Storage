@@ -208,6 +208,13 @@ Size:7.01MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-Kaiman.modpack?raw=true)
 
+### Android_Vehicle-Landsverk_Leo_modpack
+
+
+Size:11.53MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-Landsverk_Leo_modpack.modpack?raw=true)
+
 ### Android_Vehicle-Luchs
 
 
@@ -263,6 +270,27 @@ Platform:Android
 Size:2.97MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-T84_modpack.modpack?raw=true)
+
+### Android_Vehicle-UDES_14_ALT_5_modpack_modpack_modpack
+
+
+Size:12.76MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-UDES_14_ALT_5_modpack_modpack_modpack.modpack?raw=true)
+
+### Android_Vehicle-UDES_15_16_modpack
+
+
+Size:16.92MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-UDES_15_16_modpack.modpack?raw=true)
+
+### Android_Vehicle-UDES_16_modpack
+
+
+Size:11.86MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-UDES_16_modpack.modpack?raw=true)
 
 ### Android_Vehicle-WZ-111-5A_modpack
 
@@ -523,6 +551,13 @@ Size:9.89MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-Kaiman.modpack?raw=true)
 
+### StandaloneWindows64_Vehicle-Landsverk_Leo_modpack
+
+
+Size:8.41MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-Landsverk_Leo_modpack.modpack?raw=true)
+
 ### StandaloneWindows64_Vehicle-Luchs
 
 
@@ -578,6 +613,27 @@ Platform:Windows
 Size:3.02MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-T84_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-UDES_14_ALT_5_modpack
+
+
+Size:8.04MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-UDES_14_ALT_5_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-UDES_15_16_modpack
+
+
+Size:8.95MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-UDES_15_16_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-UDES_16_modpack
+
+
+Size:7.02MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-UDES_16_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle_amx50b_modpack
 
