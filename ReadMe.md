@@ -3,13 +3,6 @@
 [How to install the mod? Click Here](https://github.com/Doreamonsky/Panzer-War-Lit-Mod)
 ## Botovich-Vzhukh
 
-### Android_Vehicle-AMX_54_modpack
-
-
-Size:6.80MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Botovich-Vzhukh/Android_Vehicle-AMX_54_modpack.modpack?raw=true)
-
 ### Android_Vehicle-IS-3_D-25t_modpack
 
 
@@ -51,13 +44,6 @@ Platform:Android
 Size:6.05MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Botovich-Vzhukh/Android_Vehicle-WT_pz_4_modpack.modpack?raw=true)
-
-### StandaloneWindows64_Vehicle-AMX_54_modpack
-
-
-Size:7.50MB
-Platform:Windows
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Botovich-Vzhukh/StandaloneWindows64_Vehicle-AMX_54_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle-IS-3_D-25t_modpack
 
@@ -1345,13 +1331,6 @@ Platform:Android
 Size:4.57MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Vk_168_01_p.modpack?raw=true)
-
-### Android_Vehide-object_777
-
-
-Size:5.10MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehide-object_777.modpack?raw=true)
 
 ### Android_Vehide_obj_140
 
