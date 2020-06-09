@@ -285,6 +285,13 @@ Size:5.03MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-T49_modpack_modpack.modpack?raw=true)
 
+### Android_Vehicle-T6-Dracula_modpack
+
+
+Size:2.71MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-T6-Dracula_modpack.modpack?raw=true)
+
 ### Android_Vehicle-T84_modpack
 
 
@@ -662,6 +669,13 @@ Platform:Windows
 Size:5.47MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-T49_modpack_modpack.modpack?raw=true)
+
+### StandaloneWindows64_Vehicle-T6-Dracula_modpack
+
+
+Size:2.59MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-T6-Dracula_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle-T84_modpack
 
