@@ -1291,6 +1291,13 @@ Size:3.11MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-T92.modpack?raw=true)
 
+### Android_Vehicle-T95
+
+
+Size:3.38MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-T95.modpack?raw=true)
+
 ### Android_Vehicle-Tiger-131
 
 
