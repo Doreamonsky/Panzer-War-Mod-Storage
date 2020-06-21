@@ -1349,6 +1349,13 @@ Size:0.01MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Officials/Android_No-VFX-去特效优化补丁.modpack?raw=true)
 
+### Android_Screenshot-截图插件
+
+
+Size:0.00MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Officials/Android_Screenshot-截图插件.modpack?raw=true)
+
 ## Renamed-User
 
 ### Android_Vehicle_SdKfz184_modpack
