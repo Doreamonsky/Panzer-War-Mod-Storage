@@ -355,6 +355,13 @@ Size:5.74MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-WZ-111-5A_modpack.modpack?raw=true)
 
+### Android_VehiclePack-Germany-01
+
+
+Size:71.67MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_VehiclePack-Germany-01.modpack?raw=true)
+
 ### Android_Vehicle_amx50b_modpack
 
 
@@ -927,7 +934,7 @@ Platform:Android
 ### Android_Vehicle-AE-Phase-I
 
 
-Size:5.59MB
+Size:3.97MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-AE-Phase-I.modpack?raw=true)
 
@@ -1193,7 +1200,7 @@ Platform:Android
 ### Android_Vehicle-L-SU-85
 
 
-Size:4.42MB
+Size:4.53MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-L-SU-85.modpack?raw=true)
 
