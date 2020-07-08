@@ -1553,13 +1553,6 @@ Size:4.79MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-SU-130PM.modpack?raw=true)
 
-### Android_Vehicle-SU-76
-
-
-Size:4.91MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-SU-76.modpack?raw=true)
-
 ### Android_Vehicle-T-10
 
 
