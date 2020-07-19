@@ -1796,6 +1796,62 @@ Platform:Windows
 
 ## Wtf-Wer
 
+### Android_Vehicle_Amx_50B_modpack 
+
+
+Size:3.40MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Amx_50B_modpack .modpack?raw=true)
+
+### Android_Vehicle_Amx_Cda105_modpack
+
+
+Size:3.42MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Amx_Cda105_modpack.modpack?raw=true)
+
+### Android_Vehicle_Amx_Cdc
+
+
+Size:2.60MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Amx_Cdc.modpack?raw=true)
+
+### Android_Vehicle_Arl_V39_modpack 
+
+
+Size:2.92MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Arl_V39_modpack .modpack?raw=true)
+
+### Android_Vehicle_BDR_G1B_modpack
+
+
+Size:3.50MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_BDR_G1B_modpack.modpack?raw=true)
+
+### Android_Vehicle_Elc_Amx_Bis_modpack 
+
+
+Size:2.92MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Elc_Amx_Bis_modpack .modpack?raw=true)
+
+### Android_Vehicle_Foch_B_modpack
+
+
+Size:3.05MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Foch_B_modpack.modpack?raw=true)
+
+### Android_Vehicle_Panhard_Ebr_105_modpack
+
+
+Size:4.75MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Wtf-Wer/Android_Vehicle_Panhard_Ebr_105_modpack.modpack?raw=true)
+
 ### Android_Vehicle_Panzer_58
 
 
