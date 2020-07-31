@@ -278,6 +278,13 @@ Size:95.89MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Map-aztec_modpack.modpack?raw=true)
 
+### Android_Vehicle-AMX_54_modpack
+
+
+Size:6.80MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle-AMX_54_modpack.modpack?raw=true)
+
 ### Android_Vehicle-Black_Prince
 
 
