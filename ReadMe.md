@@ -544,20 +544,6 @@ Size:71.67MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_VehiclePack-Germany-01.modpack?raw=true)
 
-### Android_Vehicle_amx50b_modpack
-
-
-Size:2.77MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_amx50b_modpack.modpack?raw=true)
-
-### Android_Vehicle_Amx_cdc_modpack
-
-
-Size:1.34MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_Amx_cdc_modpack.modpack?raw=true)
-
 ### Android_Vehicle_bt_sv_modpack
 
 
@@ -571,13 +557,6 @@ Platform:Android
 Size:2.73MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_Chi_to_spg_modpack.modpack?raw=true)
-
-### Android_Vehicle_Elc_amx_modpack
-
-
-Size:3.06MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_Elc_amx_modpack.modpack?raw=true)
 
 ### Android_Vehicle_Hellcat_modpack
 
@@ -950,20 +929,6 @@ Size:7.29MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle-VK_90_01_P_modpack_modpack.modpack?raw=true)
 
-### StandaloneWindows64_Vehicle_amx50b_modpack
-
-
-Size:2.85MB
-Platform:Windows
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle_amx50b_modpack.modpack?raw=true)
-
-### StandaloneWindows64_Vehicle_Amx_cdc_modpack
-
-
-Size:1.40MB
-Platform:Windows
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle_Amx_cdc_modpack.modpack?raw=true)
-
 ### StandaloneWindows64_Vehicle_bt_sv_modpack
 
 
@@ -977,13 +942,6 @@ Platform:Windows
 Size:2.76MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle_Chi_to_spg_modpack.modpack?raw=true)
-
-### StandaloneWindows64_Vehicle_Elc_amx_modpack
-
-
-Size:3.11MB
-Platform:Windows
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle_Elc_amx_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle_Hellcat_modpack
 
