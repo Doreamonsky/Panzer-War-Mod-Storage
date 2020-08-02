@@ -1428,6 +1428,13 @@ Size:4.51MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-M48-RPz.modpack?raw=true)
 
+### Android_Vehicle-M6A2E1
+
+
+Size:3.78MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-M6A2E1.modpack?raw=true)
+
 ### Android_Vehicle-Manticore
 
 
