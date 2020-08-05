@@ -1190,13 +1190,6 @@ Size:5.06MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Hummel.modpack?raw=true)
 
-### Android_Vehicle-IS-2
-
-
-Size:4.04MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-IS-2.modpack?raw=true)
-
 ### Android_Vehicle-IS-4
 
 
