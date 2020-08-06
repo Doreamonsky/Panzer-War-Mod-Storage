@@ -1176,6 +1176,13 @@ Size:3.53MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-GP-Tiger_II.modpack?raw=true)
 
+### Android_Vehicle-Hellcat-76
+
+
+Size:4.03MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Hellcat-76.modpack?raw=true)
+
 ### Android_Vehicle-Hetzer-105
 
 
