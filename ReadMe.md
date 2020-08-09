@@ -1421,6 +1421,13 @@ Size:3.41MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Leopard-1.modpack?raw=true)
 
+### Android_Vehicle-M-36-Jackson
+
+
+Size:3.47MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-M-36-Jackson.modpack?raw=true)
+
 ### Android_Vehicle-M41D
 
 
