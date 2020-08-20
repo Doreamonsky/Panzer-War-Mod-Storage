@@ -1539,6 +1539,13 @@ Size:2.78MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-St-Pz-II.modpack?raw=true)
 
+### Android_Vehicle-StuG-III-G
+
+
+Size:3.08MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-StuG-III-G.modpack?raw=true)
+
 ### Android_Vehicle-SU-130PM
 
 
